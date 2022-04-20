@@ -4,18 +4,7 @@ public class test_yalcin {
         System.out.println();
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+        System.out.println("Hi");
 
 
 
